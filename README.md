@@ -6,4 +6,4 @@
 
 ## 📓 Notebook completo
 
-👉 [Clique aqui para ver o notebook renderizado](./obter.ipynb)
+👉 [Clique aqui para ver o notebook renderizado](get.ipynb)
